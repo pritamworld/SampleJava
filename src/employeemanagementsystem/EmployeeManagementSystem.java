@@ -16,6 +16,8 @@ public class EmployeeManagementSystem {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        Employee e1 = new Employee();
+        
     }
     
 }
