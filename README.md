@@ -1,7 +1,9 @@
 # SampleJava
 
-Start reading from here
-  cd /Users/macstudent/Desktop/Day3/EmployeeManagementSystem
+## Goto working directory
+
+  #### cd /Users/macstudent/Desktop/Day3/EmployeeManagementSystem
+    
     - git init
     - git status
     - git add -A
