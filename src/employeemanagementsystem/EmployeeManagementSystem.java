@@ -9,14 +9,14 @@ package employeemanagementsystem;
  *
  * @author macstudent
  */
-public class EmployeeManagementSystem {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
+public class EmployeeManagementSystem 
+{
+    public static void main(String[] args) 
+    {
         Employee e1 = new Employee();
+        
+        e1.setEmployeeId(1);
+        e1.setEmployeeName("My Name");
         
     }
     
