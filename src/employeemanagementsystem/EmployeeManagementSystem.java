@@ -18,6 +18,11 @@ public class EmployeeManagementSystem
         e1.setEmployeeId(1);
         e1.setEmployeeName("My Name");
         
+        Arithmatic arithmatic = new Arithmatic();
+        System.out.println(arithmatic.sum(10, 10, 100));
+        System.out.println(arithmatic.sum(10, 10));
+        System.out.println(arithmatic.sum(10.0f, 10));
+        
     }
     
 }

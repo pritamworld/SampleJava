@@ -9,6 +9,7 @@ package employeemanagementsystem;
  *
  * @author macstudent
  */
-public class Student {
+public class Student 
+{
     
 }
